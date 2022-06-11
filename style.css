@@ -1,0 +1,21 @@
+h1{
+    margin-top: 0;
+    height: 20px;
+    
+}
+h3{
+    margin-top: auto;
+}
+.cho{
+    color: royalblue;
+}
+.hts{
+    background-color: #082629;
+    height: 200px;
+    width: 200px;
+    border-style: dashed;
+    border-width: 20px;
+}
+h2{
+    color: antiquewhite;
+}
